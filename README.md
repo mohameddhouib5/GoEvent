@@ -1,6 +1,6 @@
 # GoEvent 🎉 - Your Local Event Discovery App
 
-![GoEvent Banner]([assets/images/banner.png](https://res.cloudinary.com/dhbqealwn/image/upload/v1740332036/jrkc64rugrq0oqdhi7dq.png))
+![GoEvent Banner]((https://res.cloudinary.com/dhbqealwn/image/upload/v1740332036/jrkc64rugrq0oqdhi7dq.png))
 
 Discover and manage local events effortlessly with GoEvent - built with Flutter for seamless cross-platform experiences.
 
